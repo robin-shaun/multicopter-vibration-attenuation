@@ -5,7 +5,7 @@
 
 ### 系统架构
 #### 硬件通信架构
-<img src="architecture.png" width="640" height="368" /> 
+<img src="code/architecture.png" width="640" height="368" /> 
 
 #### 软件架构
 - Arduino:  data_collecting.ino
@@ -37,6 +37,8 @@
 - 无线透明传输模块
 - SD卡及SD卡模块
 
+#### 无人机SolidWorks 3D模型
+#### 模态云图（1~50阶）
 
 #### 参与贡献
 
