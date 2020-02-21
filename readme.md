@@ -6,7 +6,7 @@
 <img src="code/Spectrogram.png" width="640" height="368" /> 
 ### 系统架构
 #### 硬件通信架构
-<img src="code/architecture.png" width="640" height="368" /> 
+<img src="code/architecture.png" width="300" height="300" /> 
 
 #### 软件架构
 - Arduino:  data_collecting.ino
