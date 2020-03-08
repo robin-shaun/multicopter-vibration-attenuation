@@ -2,14 +2,18 @@
 
 ### 介绍
 本开源库涵盖了论文《多旋翼飞行器振动机理分析和减振设计》涉及的硬件、单片机程序、实验数据、数据处理程序、滤波器程序、3D模型和模态云图等。
-<img src="code/architecture1.png" width="640" height="368" /> 
-<img src="code/architecture2.png" width="640" height="368" /> 
-<img src="模态云图/32.JPG" width="320" height="200" /> 
-<img src="code/Spectrogram.png" width="260" height="200" /> 
+
+<div align=center> <img src="code/architecture1.png"/>  
+
+<div align=center> <img src="code/architecture2.png"/> 
+
+<div align=center> <img src="模态云图/32.JPG" width="600" height="300"/> 
+
+<div align=center> <img src="code/Spectrogram.png"/>  
 
 ### 系统架构
 #### 硬件通信架构
-<img src="code/architecture3.png" width="640" height="368" /> 
+<img src="code/architecture3.png" /> 
 
 #### 软件架构
 - Arduino:  data_collecting.ino
