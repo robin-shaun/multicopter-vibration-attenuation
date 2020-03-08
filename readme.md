@@ -13,6 +13,7 @@
 
 ### 系统架构
 #### 硬件通信架构
+
 <img src="code/architecture3.png" /> 
 
 #### 软件架构
