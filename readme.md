@@ -2,6 +2,7 @@
 
 ### 介绍
 本开源库涵盖了论文《多旋翼飞行器振动机理分析和减振设计》涉及的硬件、单片机程序、实验数据、数据处理程序、滤波器程序、3D模型和模态云图等。
+
 <img src="code/architecture1.png" width="640" height="368" /> 
 <img src="code/architecture2.png" width="640" height="368" /> 
 <img src="模态云图/32.JPG" width="320" height="200" /> 
