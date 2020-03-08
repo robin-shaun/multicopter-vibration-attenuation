@@ -3,13 +3,13 @@
 ### 介绍
 本开源库涵盖了论文《多旋翼飞行器振动机理分析和减振设计》涉及的硬件、单片机程序、实验数据、数据处理程序、滤波器程序、3D模型和模态云图等。
 
-<div align=center> <img src="code/architecture1.png"/>  
+<div align=center> <img src="code/architecture1.png"/> </div>
 
-<div align=center> <img src="code/architecture2.png"/> 
+<div align=center> <img src="code/architecture2.png"/> </div>
 
-<div align=center> <img src="模态云图/32.JPG" width="600" height="300"/> 
+<div align=center> <img src="模态云图/32.JPG" width="600" height="300"/> </div>
 
-<div align=center> <img src="code/Spectrogram.png"/>  
+<div align=center> <img src="code/Spectrogram.png"/> </div>
 
 ### 系统架构
 #### 硬件通信架构
