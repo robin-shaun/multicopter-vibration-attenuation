@@ -14,7 +14,7 @@
 ### 系统架构
 #### 硬件通信架构
 
-<img src="code/architecture3.png" /> 
+<div align=center> <img src="code/architecture3.png" /> </div>
 
 #### 软件架构
 - Arduino:  data_collecting.ino
