@@ -35,7 +35,8 @@
         - 绘制时频图
     3. 带阻滤波器文件和陷波器文件
         - bandstop.fda
-        - notch.fda
+        - notch1.fda
+        - notch2.fda
 
 #### 硬件清单
 - DJI F450四旋翼无人机
